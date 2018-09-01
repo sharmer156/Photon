@@ -1,5 +1,19 @@
 ![logo](https://image.ibb.co/eRSV3o/photon_github.png)
 
+### Photon 是一款轻量级的快速爬虫框架，你可以使用它提取网址、电子邮件、文件、网站账户信息等。它有如下几大优点：
+
+
+
+数据提取：能够抓取广泛的数据格式，包括 URLs/parameter URLs，电子邮件，社交媒体账号，文件 （pdf、png、xml 等），密匙（API keys、hashes 等），JS 文件，正则化字符串等。
+
+多线程爬取：能够智能化地多线程爬取所需信息
+
+Ninja Mode：将有 3 个在线服务为你发送目标请求，最大限度提高链接速度，并降低连接重置的风险及单客户端的延迟请求。
+
+Plugins：具有 dnsdumpster 和 Exporter 可用接口，Quark 和 XSStrike 接口也在积极开发中。
+
+无缝更新：维护团队将持续、频繁地更新该项目，并保持版本无缝衔接。
+
 [![python](https://img.shields.io/badge/Python-2.7--3.6-green.svg?style=style=flat-square)](https://www.python.org/downloads/)   [![pypi](https://img.shields.io/badge/PyPi-@photon-pink.svg?style=style=flat-square)](https://pypi.org/project/photon/)
 [![license](https://img.shields.io/badge/License-GPL_v3-orange.svg?style=style=flat-square)](https://www.gnu.org/licenses/gpl-3.0.en.html) [![version](https://img.shields.io/github/release/s0md3v/Photon.svg)](https://github.com/s0md3v/Photon/blob/master/CHANGELOG.md) ![build](https://img.shields.io/travis/com/s0md3v/Photon.svg) [![closed issues](	https://img.shields.io/github/issues-closed-raw/s0md3v/Photon.svg)](https://github.com/s0md3v/Photon/issues?q=is%3Aissue+is%3Aclosed) [![plugins](https://img.shields.io/badge/Plugins-2-yellow.svg?style=style=flat-square)](https://github.com/s0md3v/Photon/tree/master/plugins) ![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
